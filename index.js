@@ -31,7 +31,7 @@ const fn2 = function sum(a, b) {
   return a + b;
 };
 
-fn1(2, 3); //5
+fn2(2, 3); //5
 
 // 3.2 IIF
 (function sum(a, b) {
